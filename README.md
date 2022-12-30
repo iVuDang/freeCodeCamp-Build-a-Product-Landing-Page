@@ -4,7 +4,7 @@
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page
 
 ## Preview:
-<img src="https://raw.githubusercontent.com/iVuDang/freeCodeCamp---Build-a-Personal-Portfolio-Webpage/main/Build%20personal%20portfolio%20preview.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page/blob/main/Product%20landing%20page%20preview.png" width=100% height=100%>
 
 ## Technologies: 
 * HTML
